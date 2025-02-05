@@ -15,11 +15,11 @@
   "author": "Scott Corgan",
   "license": "MIT",
   "dependencies": {
-    "@hapi/boom": "^7.4.2"
+    "@hapi/boom": "^10.0.1"
   },
   "devDependencies": {
-    "mocha": "^6.0.1",
-    "node-mocks-http": "^1.7.3"
+    "mocha": "^11.1.0",
+    "node-mocks-http": "^1.16.2"
   },
   "repository": {
     "type": "git",
